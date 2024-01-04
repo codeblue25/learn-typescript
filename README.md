@@ -1,1 +1,4 @@
-# typescript-practice
+# learn-typescript
+
+[인프런] 타입스크립트 입문 - 기초부터 실전까지 <br />
+[노마드코더] 타입스크립트로 블록체인 만들기
